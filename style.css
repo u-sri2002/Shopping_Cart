@@ -1,0 +1,52 @@
+#cart {
+    height: 180px;
+    width: 180px;
+    
+    margin-left: 100px;
+    margin-top: 30px;
+
+}
+img {
+    height: 350px;
+    width: 250px;
+}
+
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    width: 1450px;
+
+}
+.container {
+    display: flex;
+    align-items: center;
+    color: red78;
+}
+
+p {
+    text-align: center;
+    size: 20pt;
+}
+
+.inside {
+    background-color: rgb(239, 239, 243);
+    align-items: center;
+    border: 20px solid gray;
+
+}
+
+button {
+    background-color: blueviolet;
+    color: aliceblue;
+    position: relative;
+    left: 90px;
+    bottom: 10px;
+}
+
+.yellow {
+    background-color: rgb(185, 136, 24);
+    display:flex;
+    width: 1450px;
+    height: 250px;
+}
